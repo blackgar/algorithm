@@ -25,7 +25,7 @@ for tc in range(1, T + 1):
             # print(dvd)
             # print("Location", loc)
             # print("Average", avg)
-            if arr[i] > avg and loc >= m:
+            if arr[i] > avg or loc >= m:
                 break
             if dvd[loc] + arr[i] <= avg:
                 dvd[loc] += arr[i]
@@ -45,5 +45,4 @@ for tc in range(1, T + 1):
             avg += 1
             loc = 0
             total = 0
-
     print(avg)

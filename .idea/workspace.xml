@@ -4,6 +4,7 @@
     <list default="true" id="65a6074c-fd45-4fea-95c6-753a208896da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/1. 가장 큰 수/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/1. 가장 큰 수/solution.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,15 +19,19 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/input.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="615">
-                  <caret line="41" column="3" lean-forward="true" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+                <state relative-caret-position="195">
+                  <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/out1.txt">
-              <provider selected="true" editor-type-id="text-editor" />
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="1" selection-start-column="1" selection-end-column="1" />
+                </state>
+              </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
@@ -53,11 +58,29 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/solution.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="390">
-                  <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+                <state relative-caret-position="510">
+                  <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/1. 가장 큰 수/solution.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="165">
+                  <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/2. 쇠막대기/solution.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="345">
+                  <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -92,6 +115,7 @@
         <option value="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/10. 역수열/solution.py" />
         <option value="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/5. 회의실 배정/solution.py" />
         <option value="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/solution.py" />
+        <option value="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/1. 가장 큰 수/solution.py" />
       </list>
     </option>
   </component>
@@ -109,6 +133,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,20 +162,32 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="파이썬 알고리즘 연습" type="462c0819:PsiDirectoryNode" />
               <item name="섹션4. 이분탐색(결정알고리즘)과 그리디" type="462c0819:PsiDirectoryNode" />
-              <item name="4. 마구간 정하기" type="462c0819:PsiDirectoryNode" />
+              <item name="5. 회의실 배정" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="파이썬 알고리즘 연습" type="462c0819:PsiDirectoryNode" />
-              <item name="섹션4. 이분탐색(결정알고리즘)과 그리디" type="462c0819:PsiDirectoryNode" />
-              <item name="5. 회의실 배정" type="462c0819:PsiDirectoryNode" />
+              <item name="섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="파이썬 알고리즘 연습" type="462c0819:PsiDirectoryNode" />
+              <item name="섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)" type="462c0819:PsiDirectoryNode" />
+              <item name="1. 가장 큰 수" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="파이썬 알고리즘 연습" type="462c0819:PsiDirectoryNode" />
+              <item name="섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)" type="462c0819:PsiDirectoryNode" />
+              <item name="2. 쇠막대기" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,12 +344,12 @@
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.22453223" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.22453223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -327,8 +364,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/섹션4. 이분탐색(결정알고리즘)과 그리디/8. 침몰하는 타이타닉/in4.txt" />
-    <entry file="file://$PROJECT_DIR$/섹션4. 이분탐색(결정알고리즘)과 그리디/8. 침몰하는 타이타닉/in5.txt" />
     <entry file="file://$PROJECT_DIR$/섹션4. 이분탐색(결정알고리즘)과 그리디/8. 침몰하는 타이타닉/out1.txt" />
     <entry file="file://$PROJECT_DIR$/섹션4. 이분탐색(결정알고리즘)과 그리디/8. 침몰하는 타이타닉/out2.txt" />
     <entry file="file://$PROJECT_DIR$/섹션4. 이분탐색(결정알고리즘)과 그리디/8. 침몰하는 타이타닉/out3.txt" />
@@ -469,12 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/out1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/out2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/out3.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -484,17 +513,41 @@
     <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/out5.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/out1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/out2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="3" lean-forward="true" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+        <state relative-caret-position="195">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/4. 마구간 정하기/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        <state relative-caret-position="510">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/2. 쇠막대기/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/1. 가장 큰 수/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
         </state>
       </provider>
     </entry>

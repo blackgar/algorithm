@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="65a6074c-fd45-4fea-95c6-753a208896da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션3. 탐색&amp;시뮬레이션(문자열과 배열 탐색)/9. 봉우리/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션3. 탐색&amp;시뮬레이션(문자열과 배열 탐색)/9. 봉우리/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션3. 탐색&amp;시뮬레이션(문자열과 배열 탐색)/10. 스도쿠 검사/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션3. 탐색&amp;시뮬레이션(문자열과 배열 탐색)/10. 스도쿠 검사/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션3. 탐색&amp;시뮬레이션(문자열과 배열 탐색)/11. 격자판 회문수/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션3. 탐색&amp;시뮬레이션(문자열과 배열 탐색)/11. 격자판 회문수/solution2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65a6074c-fd45-4fea-95c6-753a208896da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션2. 단순구현/2. K번째 수/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션2. 단순구현/2. K번째 수/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션2. 단순구현/4. 대표값/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션2. 단순구현/4. 대표값/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션2. 단순구현/7. 소수(에라토스테네스 체)/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션2. 단순구현/7. 소수(에라토스테네스 체)/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션3. 탐색&amp;시뮬레이션(문자열과 배열 탐색)/4. 두 리스트 합치기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션3. 탐색&amp;시뮬레이션(문자열과 배열 탐색)/4. 두 리스트 합치기/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션3. 탐색&amp;시뮬레이션(문자열과 배열 탐색)/9. 봉우리/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션3. 탐색&amp;시뮬레이션(문자열과 배열 탐색)/9. 봉우리/solution2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,12 +129,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "/Users/yoongwan/Downloads/algorithm_python/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/11. 최대힙",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;/Users/yoongwan/Downloads/algorithm_python/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/11. 최대힙&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/11. 최대힙" />
@@ -257,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution2" />
         <item itemvalue="Python.solution2 (4)" />
         <item itemvalue="Python.solution2 (3)" />
         <item itemvalue="Python.solution2 (2)" />
         <item itemvalue="Python.solution2 (1)" />
-        <item itemvalue="Python.solution2" />
       </list>
     </recent_temporary>
   </component>

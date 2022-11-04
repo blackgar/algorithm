@@ -6,11 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="65a6074c-fd45-4fea-95c6-753a208896da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/2. 랜선자르기/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/2. 랜선자르기/solution2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/3. 뮤직비디오/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/3. 뮤직비디오/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/3. 뮤직비디오/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션4. 이분탐색(결정알고리즘)과 그리디/3. 뮤직비디오/solution2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/1. 가장 큰 수/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/1. 가장 큰 수/solution2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/2. 쇠막대기/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/2. 쇠막대기/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/3. 후위표기식 만들기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/3. 후위표기식 만들기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/3. 후위표기식 만들기/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/3. 후위표기식 만들기/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/4. 후위식 연산/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/4. 후위식 연산/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/4. 후위식 연산/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/4. 후위식 연산/solution2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

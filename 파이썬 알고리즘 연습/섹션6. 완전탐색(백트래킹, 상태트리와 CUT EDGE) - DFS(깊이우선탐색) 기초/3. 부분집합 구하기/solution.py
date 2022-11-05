@@ -7,7 +7,6 @@ def dfs(x):
         for i in range(1, n+1):
             if visited[i]:
                 print(i, end=" ")
-        print(visited)
         print()
         return
     else:

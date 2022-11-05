@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="65a6074c-fd45-4fea-95c6-753a208896da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/1. 재귀함수란(이진수출력)/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/1. 재귀함수란(이진수출력)/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/1. 재귀함수란(이진수출력)/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/1. 재귀함수란(이진수출력)/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/2. 이진트리순회/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/2. 이진트리순회/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/3. 부분집합 구하기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/3. 부분집합 구하기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/3. 부분집합 구하기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/3. 부분집합 구하기/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/4. 합이 같은 부분집합/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/4. 합이 같은 부분집합/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/4. 합이 같은 부분집합/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/4. 합이 같은 부분집합/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

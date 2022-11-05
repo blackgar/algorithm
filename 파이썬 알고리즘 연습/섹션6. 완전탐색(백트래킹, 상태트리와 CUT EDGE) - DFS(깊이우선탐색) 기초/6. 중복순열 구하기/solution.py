@@ -12,7 +12,6 @@ def dfs(x):
         for i in range(m):
             print(res[i], end=" ")
         print()
-        return
     else:
         # 중복순열이기 때문에 자기 숫자를 포함한 n개 만큼 수를 조합해야 한다.
         # res라는 빈 리스트에 조합 숫자를 넣어서 순열을 만들고

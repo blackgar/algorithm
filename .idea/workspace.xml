@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="65a6074c-fd45-4fea-95c6-753a208896da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/9. 수열 추측하기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/9. 수열 추측하기/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/9. 수열 추측하기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/9. 수열 추측하기/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/10. 조합 구하기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/10. 조합 구하기/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,17 +136,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/yoongwan/Downloads/algorithm_python/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/11. 최대힙",
+    "last_opened_file_path": "/Users/yoongwan/Downloads/algorithm_python/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/15. 경로탐색",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/11. 최대힙" />
-      <recent name="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/10. 최소힙" />
-      <recent name="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/9. 아나그램(구글)" />
-      <recent name="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/8. 단어찾기" />
-      <recent name="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션5. 자료구조활용(스택, 큐, 해쉬, 힙)/7. 교육과정 설계" />
+      <recent name="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/15. 경로탐색" />
+      <recent name="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/11. 수들의 조합" />
+      <recent name="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/10. 조합 구하기" />
+      <recent name="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/9. 수열 추측하기" />
+      <recent name="$PROJECT_DIR$/파이썬 알고리즘 연습/섹션6. 완전탐색(백트래킹, 상태트리와 CUT EDGE) - DFS(깊이우선탐색) 기초/8. 순열 구하기" />
     </key>
   </component>
   <component name="RunManager">
